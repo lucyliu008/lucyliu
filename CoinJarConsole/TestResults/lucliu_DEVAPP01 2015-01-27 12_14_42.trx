@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="6327f758-e6c4-4430-9fcb-de5158f40f75" name="lucliu@DEVAPP01 2015-01-27 12:14:42" runUser="VC_HO\lucliu" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="da1b6c7a-d943-493d-9c0b-f5a418ea9196">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="lucliu_DEVAPP01 2015-01-27 12_14_42">
+      <DeploymentItem filename="C:\Users\lucliu\Desktop\CoinJarConsole\CoinJarConsole\bin\Release\CoinJarConsole.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-01-27T12:14:42.0349874-08:00" queuing="2015-01-27T12:14:44.2206182-08:00" start="2015-01-27T12:14:44.3612486-08:00" finish="2015-01-27T12:14:45.1737798-08:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="4" executed="4" passed="4" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="AddCoinTest2" storage="c:\users\lucliu\desktop\coinjarconsole\unittest\bin\release\unittest.dll" id="bebb0f0f-03ab-0f9c-7cb2-acbe897e2f84">
+      <Execution id="2e7aeaab-a67f-4ad5-8695-0af90bcf9d4e" />
+      <TestMethod codeBase="C:/Users/lucliu/Desktop/CoinJarConsole/UnitTest/bin/Release/UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTest.CoinJarTest, UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AddCoinTest2" />
+    </UnitTest>
+    <UnitTest name="EmptyTest" storage="c:\users\lucliu\desktop\coinjarconsole\unittest\bin\release\unittest.dll" id="b6c4cf48-c178-6e72-c56f-68bf6cc9f01f">
+      <Execution id="20c81076-1789-4c3b-87d9-9a4577863e23" />
+      <TestMethod codeBase="C:/Users/lucliu/Desktop/CoinJarConsole/UnitTest/bin/Release/UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTest.CoinJarTest, UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="EmptyTest" />
+    </UnitTest>
+    <UnitTest name="AddCoinTest" storage="c:\users\lucliu\desktop\coinjarconsole\unittest\bin\release\unittest.dll" id="a5646422-5a9b-317d-9d1d-bb09a9b7a5d2">
+      <Execution id="64ef32c1-2b18-455b-882e-9b2f7a515bd9" />
+      <TestMethod codeBase="C:/Users/lucliu/Desktop/CoinJarConsole/UnitTest/bin/Release/UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTest.CoinJarTest, UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AddCoinTest" />
+    </UnitTest>
+    <UnitTest name="AddCoinTest3" storage="c:\users\lucliu\desktop\coinjarconsole\unittest\bin\release\unittest.dll" id="466f4fdc-263c-6b9b-58bd-656e330062e5">
+      <Execution id="c1d3d926-0f8c-4e76-a687-9947873f3b8f" />
+      <TestMethod codeBase="C:/Users/lucliu/Desktop/CoinJarConsole/UnitTest/bin/Release/UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTest.CoinJarTest, UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AddCoinTest3" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="466f4fdc-263c-6b9b-58bd-656e330062e5" executionId="c1d3d926-0f8c-4e76-a687-9947873f3b8f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a5646422-5a9b-317d-9d1d-bb09a9b7a5d2" executionId="64ef32c1-2b18-455b-882e-9b2f7a515bd9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b6c4cf48-c178-6e72-c56f-68bf6cc9f01f" executionId="20c81076-1789-4c3b-87d9-9a4577863e23" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bebb0f0f-03ab-0f9c-7cb2-acbe897e2f84" executionId="2e7aeaab-a67f-4ad5-8695-0af90bcf9d4e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="c1d3d926-0f8c-4e76-a687-9947873f3b8f" testId="466f4fdc-263c-6b9b-58bd-656e330062e5" testName="AddCoinTest3" computerName="DEVAPP01" duration="00:00:00.0211607" startTime="2015-01-27T12:14:44.6141880-08:00" endTime="2015-01-27T12:14:45.0897922-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c1d3d926-0f8c-4e76-a687-9947873f3b8f">
+    </UnitTestResult>
+    <UnitTestResult executionId="64ef32c1-2b18-455b-882e-9b2f7a515bd9" testId="a5646422-5a9b-317d-9d1d-bb09a9b7a5d2" testName="AddCoinTest" computerName="DEVAPP01" duration="00:00:00.0003151" startTime="2015-01-27T12:14:45.0917454-08:00" endTime="2015-01-27T12:14:45.0956518-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="64ef32c1-2b18-455b-882e-9b2f7a515bd9">
+    </UnitTestResult>
+    <UnitTestResult executionId="20c81076-1789-4c3b-87d9-9a4577863e23" testId="b6c4cf48-c178-6e72-c56f-68bf6cc9f01f" testName="EmptyTest" computerName="DEVAPP01" duration="00:00:00.0124004" startTime="2015-01-27T12:14:45.0976050-08:00" endTime="2015-01-27T12:14:45.1122540-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="20c81076-1789-4c3b-87d9-9a4577863e23">
+    </UnitTestResult>
+    <UnitTestResult executionId="2e7aeaab-a67f-4ad5-8695-0af90bcf9d4e" testId="bebb0f0f-03ab-0f9c-7cb2-acbe897e2f84" testName="AddCoinTest2" computerName="DEVAPP01" duration="00:00:00.0002645" startTime="2015-01-27T12:14:45.1142072-08:00" endTime="2015-01-27T12:14:45.1181136-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2e7aeaab-a67f-4ad5-8695-0af90bcf9d4e">
+    </UnitTestResult>
+  </Results>
+</TestRun>
