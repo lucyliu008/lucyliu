@@ -1,0 +1,9 @@
+E:\LucyLiu\CoinJar\CoinJarConsole\CoinJarConsole\bin\Release\CoinJarConsole.exe
+E:\LucyLiu\CoinJar\CoinJarConsole\CoinJarConsole\bin\Release\CoinJarConsole.pdb
+E:\LucyLiu\CoinJar\CoinJarConsole\CoinJarConsole\obj\x86\Release\CoinJarConsole.exe
+E:\LucyLiu\CoinJar\CoinJarConsole\CoinJarConsole\obj\x86\Release\CoinJarConsole.pdb
+C:\Users\lucliu\Desktop\CoinJarConsole\CoinJarConsole\obj\x86\Release\CoinJarConsole.exe
+C:\Users\lucliu\Desktop\CoinJarConsole\CoinJarConsole\obj\x86\Release\CoinJarConsole.pdb
+C:\Users\lucliu\Desktop\CoinJarConsole\CoinJarConsole\bin\Release\CoinJarConsole.exe
+C:\Users\lucliu\Desktop\CoinJarConsole\CoinJarConsole\bin\Release\CoinJarConsole.pdb
+C:\Users\lucliu\Desktop\CoinJarConsole\CoinJarConsole\obj\x86\Release\CoinJarConsole.csprojResolveAssemblyReference.cache

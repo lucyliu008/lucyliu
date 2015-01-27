@@ -1,0 +1,4 @@
+E:\LucyLiu\CoinJar\CoinJarConsole\CoinJarConsole\bin\Debug\CoinJarConsole.exe
+E:\LucyLiu\CoinJar\CoinJarConsole\CoinJarConsole\bin\Debug\CoinJarConsole.pdb
+E:\LucyLiu\CoinJar\CoinJarConsole\CoinJarConsole\obj\x86\Debug\CoinJarConsole.exe
+E:\LucyLiu\CoinJar\CoinJarConsole\CoinJarConsole\obj\x86\Debug\CoinJarConsole.pdb
